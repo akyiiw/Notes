@@ -23,7 +23,7 @@
             HeightRequest="50" 
             Margin="30" />
         <Label 
-            Text="Desenvolvido por: Jônatas Menezes"
+            Text="Desenvolvido por: Pietro Borges"
             VerticalOptions="Center" 
             HorizontalOptions="Center" />
     </VerticalStackLayout>

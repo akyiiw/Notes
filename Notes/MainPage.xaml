@@ -7,7 +7,7 @@
         <VerticalStackLayout>
             <Editor 
                x:Name="Edit"
-               Placeholder="Digita ai"
+               Placeholder="Digite o texto a ser salvo"
                TextChanged="Edit_TextChanged"
                 Completed="Edit_Completed"
                 AutoSize="TextChanges"

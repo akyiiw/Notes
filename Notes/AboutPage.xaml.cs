@@ -9,6 +9,6 @@ public partial class AboutPage : ContentPage
 
     private void EnviarGitBtn_Clicked(object sender, EventArgs e)
     {
-        Launcher.Default.OpenAsync("https://github.com/Jolimenezes");
+        Launcher.Default.OpenAsync("https://github.com/akyiiw");
     }
 }

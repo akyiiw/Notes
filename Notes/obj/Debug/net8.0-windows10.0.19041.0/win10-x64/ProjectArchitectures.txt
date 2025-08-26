@@ -1,1 +1,1 @@
-D:\Jonatas2DS\Notes\Notes\Notes\Notes.csproj;x64
+D:\Pietro\Notes\Notes\Notes.csproj;x64

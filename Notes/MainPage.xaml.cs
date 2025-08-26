@@ -27,21 +27,21 @@
         {
             string conteudo = Edit.Text;
             File.WriteAllText(caminho, conteudo);
-            DisplayAlert($"O arquivo de nome {File.GetAttributes(caminho)} foi salvo!", $"O arquivo foi salvo com sucesso em {caminho}", "Ok");
+            DisplayAlert($"O arquivo de nome {Path.GetFileName(caminho)} foi salvo!", $"O arquivo foi salvo com sucesso em {caminho}", "Ok");
 
         }
 
         private void ApagarBtn_Clicked(object sender, EventArgs e)
         {
+            Edit.Text = "";
             if (File.Exists(caminho))
             {
                 File.Delete(caminho);
                 DisplayAlert("Arquivo apagado", "Arquivo apagado com sucesso", "Ok");
-                Edit.Text = null;
             } 
            else
            {
-                DisplayAlert("O arquivo não foi encontrado", "Certifique-se de ter criado um arquivo antes de tentar excluir um", "ok");
+                DisplayAlert("O arquivo não foi encontrado.", "Certifique-se de o arquivo foi criado antes de deletá-lo", "Voltar");
            }
     }
     }
