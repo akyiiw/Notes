@@ -1,1 +1,1 @@
-D:\Pietro\Notes\Notes\Notes.csproj;x64
+D:\Pietro 2DS\pie2\Notes\Notes\Notes.csproj;x64

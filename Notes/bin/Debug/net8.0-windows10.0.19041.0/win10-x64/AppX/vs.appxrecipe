@@ -10,7 +10,7 @@
     <PackageArchitecture>x64</PackageArchitecture>
     <PackageIdentityName>com.companyname.notes</PackageIdentityName>
     <PackageIdentityPublisher>CN=User Name</PackageIdentityPublisher>
-    <IntermediateOutputPath>D:\Pietro\Notes\Notes\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\</IntermediateOutputPath>
+    <IntermediateOutputPath>D:\Pietro 2DS\pie2\Notes\Notes\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\</IntermediateOutputPath>
     <RemoteDeploymentType>CopyToDevice</RemoteDeploymentType>
     <PackageRegistrationPath>
     </PackageRegistrationPath>
@@ -18,7 +18,7 @@
     <DeployOptionalPackages>false</DeployOptionalPackages>
     <WindowsSdkPath>
     </WindowsSdkPath>
-    <LayoutDir>D:\Pietro\Notes\Notes\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\AppX</LayoutDir>
+    <LayoutDir>D:\Pietro 2DS\pie2\Notes\Notes\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\AppX</LayoutDir>
     <RegisteredManifestChecksum>5FB2F4CFF65B2BC4CF3EA3C5EE917F27AD2D5094AB659F8A1FB38C2AC9E296DF</RegisteredManifestChecksum>
     <RegisteredPackageMoniker>com.companyname.notes_1.0.0.1_x64__9zz4h110yvjzm</RegisteredPackageMoniker>
     <RegisteredUserModeAppID>com.companyname.notes_9zz4h110yvjzm!App</RegisteredUserModeAppID>
@@ -27,276 +27,276 @@
     <RegisteredVersion>1.0.0.1</RegisteredVersion>
   </PropertyGroup>
   <ItemGroup>
-    <AppXManifest Include="D:\Pietro\Notes\Notes\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\AppxManifest.xml">
+    <AppXManifest Include="D:\Pietro 2DS\pie2\Notes\Notes\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2025-08-26T00:40:44.912</Modified>
+      <Modified>2025-09-30T23:11:01.825</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
-    <AppxPackagedFile Include="D:\Pietro\Notes\Notes\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\resources.pri">
+    <AppxPackagedFile Include="D:\Pietro 2DS\pie2\Notes\Notes\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\resources.pri">
       <PackagePath>resources.pri</PackagePath>
       <Modified>2025-08-26T00:16:09.561</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Pietro\Notes\Notes\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Notes.runtimeconfig.json">
+    <AppxPackagedFile Include="D:\Pietro 2DS\pie2\Notes\Notes\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Notes.runtimeconfig.json">
       <PackagePath>Notes.runtimeconfig.json</PackagePath>
-      <Modified>2025-08-26T00:16:09.296</Modified>
+      <Modified>2025-09-30T23:11:01.740</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Pietro\Notes\Notes\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Notes.dll">
+    <AppxPackagedFile Include="D:\Pietro 2DS\pie2\Notes\Notes\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Notes.dll">
       <PackagePath>Notes.dll</PackagePath>
-      <Modified>2025-08-26T00:40:44.077</Modified>
+      <Modified>2025-09-30T23:11:01.437</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Pietro\Notes\Notes\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\apphost.exe">
+    <AppxPackagedFile Include="D:\Pietro 2DS\pie2\Notes\Notes\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\apphost.exe">
       <PackagePath>Notes.exe</PackagePath>
-      <Modified>2025-08-26T00:40:44.124</Modified>
+      <Modified>2025-09-30T23:11:01.437</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Pietro\Notes\Notes\Resources\Raw\AboutAssets.txt">
+    <AppxPackagedFile Include="D:\Pietro 2DS\pie2\Notes\Notes\Resources\Raw\AboutAssets.txt">
       <PackagePath>AboutAssets.txt</PackagePath>
       <Modified>2025-08-12T00:37:50.283</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Pietro\Notes\Notes\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-100.png">
+    <AppxPackagedFile Include="D:\Pietro 2DS\pie2\Notes\Notes\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-100.png">
       <PackagePath>splashSplashScreen.scale-100.png</PackagePath>
       <Modified>2025-08-12T00:38:03.148</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Pietro\Notes\Notes\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-125.png">
+    <AppxPackagedFile Include="D:\Pietro 2DS\pie2\Notes\Notes\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-125.png">
       <PackagePath>splashSplashScreen.scale-125.png</PackagePath>
       <Modified>2025-08-12T00:38:03.164</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Pietro\Notes\Notes\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-150.png">
+    <AppxPackagedFile Include="D:\Pietro 2DS\pie2\Notes\Notes\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-150.png">
       <PackagePath>splashSplashScreen.scale-150.png</PackagePath>
       <Modified>2025-08-12T00:38:03.180</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Pietro\Notes\Notes\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-200.png">
+    <AppxPackagedFile Include="D:\Pietro 2DS\pie2\Notes\Notes\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-200.png">
       <PackagePath>splashSplashScreen.scale-200.png</PackagePath>
       <Modified>2025-08-12T00:38:03.211</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Pietro\Notes\Notes\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-400.png">
+    <AppxPackagedFile Include="D:\Pietro 2DS\pie2\Notes\Notes\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-400.png">
       <PackagePath>splashSplashScreen.scale-400.png</PackagePath>
       <Modified>2025-08-12T00:38:03.336</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Pietro\Notes\Notes\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\f\m6x11plus.ttf">
+    <AppxPackagedFile Include="D:\Pietro 2DS\pie2\Notes\Notes\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\f\m6x11plus.ttf">
       <PackagePath>m6x11plus.ttf</PackagePath>
       <Modified>2025-08-18T23:35:23.787</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Pietro\Notes\Notes\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\f\OpenSans-Regular.ttf">
+    <AppxPackagedFile Include="D:\Pietro 2DS\pie2\Notes\Notes\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\f\OpenSans-Regular.ttf">
       <PackagePath>OpenSans-Regular.ttf</PackagePath>
       <Modified>2025-08-12T00:37:50.216</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Pietro\Notes\Notes\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\f\OpenSans-Semibold.ttf">
+    <AppxPackagedFile Include="D:\Pietro 2DS\pie2\Notes\Notes\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\f\OpenSans-Semibold.ttf">
       <PackagePath>OpenSans-Semibold.ttf</PackagePath>
       <Modified>2025-08-12T00:37:50.217</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Pietro\Notes\Notes\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appicon.ico">
+    <AppxPackagedFile Include="D:\Pietro 2DS\pie2\Notes\Notes\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appicon.ico">
       <PackagePath>appicon.ico</PackagePath>
-      <Modified>2025-08-26T00:15:56.245</Modified>
+      <Modified>2025-09-30T23:04:33.470</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Pietro\Notes\Notes\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-100.png">
+    <AppxPackagedFile Include="D:\Pietro 2DS\pie2\Notes\Notes\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-100.png">
       <PackagePath>appiconLargeTile.scale-100.png</PackagePath>
-      <Modified>2025-08-26T00:15:56.245</Modified>
+      <Modified>2025-09-30T23:04:33.455</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Pietro\Notes\Notes\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-125.png">
+    <AppxPackagedFile Include="D:\Pietro 2DS\pie2\Notes\Notes\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-125.png">
       <PackagePath>appiconLargeTile.scale-125.png</PackagePath>
-      <Modified>2025-08-26T00:15:56.245</Modified>
+      <Modified>2025-09-30T23:04:33.455</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Pietro\Notes\Notes\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-150.png">
+    <AppxPackagedFile Include="D:\Pietro 2DS\pie2\Notes\Notes\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-150.png">
       <PackagePath>appiconLargeTile.scale-150.png</PackagePath>
-      <Modified>2025-08-26T00:15:56.245</Modified>
+      <Modified>2025-09-30T23:04:33.455</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Pietro\Notes\Notes\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-200.png">
+    <AppxPackagedFile Include="D:\Pietro 2DS\pie2\Notes\Notes\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-200.png">
       <PackagePath>appiconLargeTile.scale-200.png</PackagePath>
-      <Modified>2025-08-26T00:15:56.245</Modified>
+      <Modified>2025-09-30T23:04:33.455</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Pietro\Notes\Notes\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-400.png">
+    <AppxPackagedFile Include="D:\Pietro 2DS\pie2\Notes\Notes\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-400.png">
       <PackagePath>appiconLargeTile.scale-400.png</PackagePath>
-      <Modified>2025-08-26T00:15:56.245</Modified>
+      <Modified>2025-09-30T23:04:33.455</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Pietro\Notes\Notes\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-16.png">
+    <AppxPackagedFile Include="D:\Pietro 2DS\pie2\Notes\Notes\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-16.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-16.png</PackagePath>
-      <Modified>2025-08-26T00:15:56.245</Modified>
+      <Modified>2025-09-30T23:04:33.470</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Pietro\Notes\Notes\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-24.png">
+    <AppxPackagedFile Include="D:\Pietro 2DS\pie2\Notes\Notes\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-24.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-24.png</PackagePath>
-      <Modified>2025-08-26T00:15:56.245</Modified>
+      <Modified>2025-09-30T23:04:33.470</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Pietro\Notes\Notes\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-256.png">
+    <AppxPackagedFile Include="D:\Pietro 2DS\pie2\Notes\Notes\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-256.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-256.png</PackagePath>
-      <Modified>2025-08-26T00:15:56.245</Modified>
+      <Modified>2025-09-30T23:04:33.470</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Pietro\Notes\Notes\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-32.png">
+    <AppxPackagedFile Include="D:\Pietro 2DS\pie2\Notes\Notes\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-32.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-32.png</PackagePath>
-      <Modified>2025-08-26T00:15:56.245</Modified>
+      <Modified>2025-09-30T23:04:33.470</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Pietro\Notes\Notes\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-48.png">
+    <AppxPackagedFile Include="D:\Pietro 2DS\pie2\Notes\Notes\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-48.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-48.png</PackagePath>
-      <Modified>2025-08-26T00:15:56.245</Modified>
+      <Modified>2025-09-30T23:04:33.470</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Pietro\Notes\Notes\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-16.png">
+    <AppxPackagedFile Include="D:\Pietro 2DS\pie2\Notes\Notes\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-16.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-16.png</PackagePath>
-      <Modified>2025-08-26T00:15:56.245</Modified>
+      <Modified>2025-09-30T23:04:33.470</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Pietro\Notes\Notes\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-24.png">
+    <AppxPackagedFile Include="D:\Pietro 2DS\pie2\Notes\Notes\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-24.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-24.png</PackagePath>
-      <Modified>2025-08-26T00:15:56.245</Modified>
+      <Modified>2025-09-30T23:04:33.470</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Pietro\Notes\Notes\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-256.png">
+    <AppxPackagedFile Include="D:\Pietro 2DS\pie2\Notes\Notes\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-256.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-256.png</PackagePath>
-      <Modified>2025-08-26T00:15:56.245</Modified>
+      <Modified>2025-09-30T23:04:33.470</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Pietro\Notes\Notes\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-32.png">
+    <AppxPackagedFile Include="D:\Pietro 2DS\pie2\Notes\Notes\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-32.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-32.png</PackagePath>
-      <Modified>2025-08-26T00:15:56.245</Modified>
+      <Modified>2025-09-30T23:04:33.470</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Pietro\Notes\Notes\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-48.png">
+    <AppxPackagedFile Include="D:\Pietro 2DS\pie2\Notes\Notes\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-48.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-48.png</PackagePath>
-      <Modified>2025-08-26T00:15:56.245</Modified>
+      <Modified>2025-09-30T23:04:33.470</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Pietro\Notes\Notes\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-100.png">
+    <AppxPackagedFile Include="D:\Pietro 2DS\pie2\Notes\Notes\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-100.png">
       <PackagePath>appiconLogo.scale-100.png</PackagePath>
-      <Modified>2025-08-26T00:15:56.245</Modified>
+      <Modified>2025-09-30T23:04:33.470</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Pietro\Notes\Notes\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-125.png">
+    <AppxPackagedFile Include="D:\Pietro 2DS\pie2\Notes\Notes\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-125.png">
       <PackagePath>appiconLogo.scale-125.png</PackagePath>
-      <Modified>2025-08-26T00:15:56.245</Modified>
+      <Modified>2025-09-30T23:04:33.470</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Pietro\Notes\Notes\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-150.png">
+    <AppxPackagedFile Include="D:\Pietro 2DS\pie2\Notes\Notes\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-150.png">
       <PackagePath>appiconLogo.scale-150.png</PackagePath>
-      <Modified>2025-08-26T00:15:56.245</Modified>
+      <Modified>2025-09-30T23:04:33.470</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Pietro\Notes\Notes\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-200.png">
+    <AppxPackagedFile Include="D:\Pietro 2DS\pie2\Notes\Notes\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-200.png">
       <PackagePath>appiconLogo.scale-200.png</PackagePath>
-      <Modified>2025-08-26T00:15:56.245</Modified>
+      <Modified>2025-09-30T23:04:33.470</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Pietro\Notes\Notes\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-400.png">
+    <AppxPackagedFile Include="D:\Pietro 2DS\pie2\Notes\Notes\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-400.png">
       <PackagePath>appiconLogo.scale-400.png</PackagePath>
-      <Modified>2025-08-26T00:15:56.245</Modified>
+      <Modified>2025-09-30T23:04:33.470</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Pietro\Notes\Notes\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-16.png">
+    <AppxPackagedFile Include="D:\Pietro 2DS\pie2\Notes\Notes\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-16.png">
       <PackagePath>appiconLogo.targetsize-16.png</PackagePath>
-      <Modified>2025-08-26T00:15:56.245</Modified>
+      <Modified>2025-09-30T23:04:33.470</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Pietro\Notes\Notes\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-24.png">
+    <AppxPackagedFile Include="D:\Pietro 2DS\pie2\Notes\Notes\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-24.png">
       <PackagePath>appiconLogo.targetsize-24.png</PackagePath>
-      <Modified>2025-08-26T00:15:56.245</Modified>
+      <Modified>2025-09-30T23:04:33.470</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Pietro\Notes\Notes\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-256.png">
+    <AppxPackagedFile Include="D:\Pietro 2DS\pie2\Notes\Notes\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-256.png">
       <PackagePath>appiconLogo.targetsize-256.png</PackagePath>
-      <Modified>2025-08-26T00:15:56.245</Modified>
+      <Modified>2025-09-30T23:04:33.470</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Pietro\Notes\Notes\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-32.png">
+    <AppxPackagedFile Include="D:\Pietro 2DS\pie2\Notes\Notes\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-32.png">
       <PackagePath>appiconLogo.targetsize-32.png</PackagePath>
-      <Modified>2025-08-26T00:15:56.245</Modified>
+      <Modified>2025-09-30T23:04:33.470</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Pietro\Notes\Notes\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-48.png">
+    <AppxPackagedFile Include="D:\Pietro 2DS\pie2\Notes\Notes\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-48.png">
       <PackagePath>appiconLogo.targetsize-48.png</PackagePath>
-      <Modified>2025-08-26T00:15:56.245</Modified>
+      <Modified>2025-09-30T23:04:33.470</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Pietro\Notes\Notes\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-100.png">
+    <AppxPackagedFile Include="D:\Pietro 2DS\pie2\Notes\Notes\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-100.png">
       <PackagePath>appiconMediumTile.scale-100.png</PackagePath>
-      <Modified>2025-08-26T00:15:56.245</Modified>
+      <Modified>2025-09-30T23:04:33.455</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Pietro\Notes\Notes\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-125.png">
+    <AppxPackagedFile Include="D:\Pietro 2DS\pie2\Notes\Notes\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-125.png">
       <PackagePath>appiconMediumTile.scale-125.png</PackagePath>
-      <Modified>2025-08-26T00:15:56.245</Modified>
+      <Modified>2025-09-30T23:04:33.455</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Pietro\Notes\Notes\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-150.png">
+    <AppxPackagedFile Include="D:\Pietro 2DS\pie2\Notes\Notes\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-150.png">
       <PackagePath>appiconMediumTile.scale-150.png</PackagePath>
-      <Modified>2025-08-26T00:15:56.245</Modified>
+      <Modified>2025-09-30T23:04:33.455</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Pietro\Notes\Notes\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-200.png">
+    <AppxPackagedFile Include="D:\Pietro 2DS\pie2\Notes\Notes\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-200.png">
       <PackagePath>appiconMediumTile.scale-200.png</PackagePath>
-      <Modified>2025-08-26T00:15:56.245</Modified>
+      <Modified>2025-09-30T23:04:33.455</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Pietro\Notes\Notes\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-400.png">
+    <AppxPackagedFile Include="D:\Pietro 2DS\pie2\Notes\Notes\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-400.png">
       <PackagePath>appiconMediumTile.scale-400.png</PackagePath>
-      <Modified>2025-08-26T00:15:56.245</Modified>
+      <Modified>2025-09-30T23:04:33.455</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Pietro\Notes\Notes\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-100.png">
+    <AppxPackagedFile Include="D:\Pietro 2DS\pie2\Notes\Notes\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-100.png">
       <PackagePath>appiconSmallTile.scale-100.png</PackagePath>
-      <Modified>2025-08-26T00:15:56.245</Modified>
+      <Modified>2025-09-30T23:04:33.470</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Pietro\Notes\Notes\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-125.png">
+    <AppxPackagedFile Include="D:\Pietro 2DS\pie2\Notes\Notes\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-125.png">
       <PackagePath>appiconSmallTile.scale-125.png</PackagePath>
-      <Modified>2025-08-26T00:15:56.245</Modified>
+      <Modified>2025-09-30T23:04:33.470</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Pietro\Notes\Notes\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-150.png">
+    <AppxPackagedFile Include="D:\Pietro 2DS\pie2\Notes\Notes\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-150.png">
       <PackagePath>appiconSmallTile.scale-150.png</PackagePath>
-      <Modified>2025-08-26T00:15:56.245</Modified>
+      <Modified>2025-09-30T23:04:33.470</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Pietro\Notes\Notes\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-200.png">
+    <AppxPackagedFile Include="D:\Pietro 2DS\pie2\Notes\Notes\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-200.png">
       <PackagePath>appiconSmallTile.scale-200.png</PackagePath>
-      <Modified>2025-08-26T00:15:56.245</Modified>
+      <Modified>2025-09-30T23:04:33.470</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Pietro\Notes\Notes\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-400.png">
+    <AppxPackagedFile Include="D:\Pietro 2DS\pie2\Notes\Notes\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-400.png">
       <PackagePath>appiconSmallTile.scale-400.png</PackagePath>
-      <Modified>2025-08-26T00:15:56.245</Modified>
+      <Modified>2025-09-30T23:04:33.470</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Pietro\Notes\Notes\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-100.png">
+    <AppxPackagedFile Include="D:\Pietro 2DS\pie2\Notes\Notes\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-100.png">
       <PackagePath>appiconStoreLogo.scale-100.png</PackagePath>
-      <Modified>2025-08-26T00:15:56.245</Modified>
+      <Modified>2025-09-30T23:04:33.470</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Pietro\Notes\Notes\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-125.png">
+    <AppxPackagedFile Include="D:\Pietro 2DS\pie2\Notes\Notes\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-125.png">
       <PackagePath>appiconStoreLogo.scale-125.png</PackagePath>
-      <Modified>2025-08-26T00:15:56.245</Modified>
+      <Modified>2025-09-30T23:04:33.470</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Pietro\Notes\Notes\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-150.png">
+    <AppxPackagedFile Include="D:\Pietro 2DS\pie2\Notes\Notes\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-150.png">
       <PackagePath>appiconStoreLogo.scale-150.png</PackagePath>
-      <Modified>2025-08-26T00:15:56.245</Modified>
+      <Modified>2025-09-30T23:04:33.470</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Pietro\Notes\Notes\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-200.png">
+    <AppxPackagedFile Include="D:\Pietro 2DS\pie2\Notes\Notes\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-200.png">
       <PackagePath>appiconStoreLogo.scale-200.png</PackagePath>
-      <Modified>2025-08-26T00:15:56.245</Modified>
+      <Modified>2025-09-30T23:04:33.470</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Pietro\Notes\Notes\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-400.png">
+    <AppxPackagedFile Include="D:\Pietro 2DS\pie2\Notes\Notes\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-400.png">
       <PackagePath>appiconStoreLogo.scale-400.png</PackagePath>
-      <Modified>2025-08-26T00:15:56.245</Modified>
+      <Modified>2025-09-30T23:04:33.470</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Pietro\Notes\Notes\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-100.png">
+    <AppxPackagedFile Include="D:\Pietro 2DS\pie2\Notes\Notes\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-100.png">
       <PackagePath>appiconWideTile.scale-100.png</PackagePath>
-      <Modified>2025-08-26T00:15:56.245</Modified>
+      <Modified>2025-09-30T23:04:33.455</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Pietro\Notes\Notes\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-125.png">
+    <AppxPackagedFile Include="D:\Pietro 2DS\pie2\Notes\Notes\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-125.png">
       <PackagePath>appiconWideTile.scale-125.png</PackagePath>
-      <Modified>2025-08-26T00:15:56.245</Modified>
+      <Modified>2025-09-30T23:04:33.455</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Pietro\Notes\Notes\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-150.png">
+    <AppxPackagedFile Include="D:\Pietro 2DS\pie2\Notes\Notes\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-150.png">
       <PackagePath>appiconWideTile.scale-150.png</PackagePath>
-      <Modified>2025-08-26T00:15:56.245</Modified>
+      <Modified>2025-09-30T23:04:33.455</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Pietro\Notes\Notes\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-200.png">
+    <AppxPackagedFile Include="D:\Pietro 2DS\pie2\Notes\Notes\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-200.png">
       <PackagePath>appiconWideTile.scale-200.png</PackagePath>
-      <Modified>2025-08-26T00:15:56.245</Modified>
+      <Modified>2025-09-30T23:04:33.455</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Pietro\Notes\Notes\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-400.png">
+    <AppxPackagedFile Include="D:\Pietro 2DS\pie2\Notes\Notes\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-400.png">
       <PackagePath>appiconWideTile.scale-400.png</PackagePath>
-      <Modified>2025-08-26T00:15:56.245</Modified>
+      <Modified>2025-09-30T23:04:33.455</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Pietro\Notes\Notes\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-100.png">
+    <AppxPackagedFile Include="D:\Pietro 2DS\pie2\Notes\Notes\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-100.png">
       <PackagePath>dotnet_bot.scale-100.png</PackagePath>
-      <Modified>2025-08-26T00:15:56.245</Modified>
+      <Modified>2025-09-30T23:04:33.455</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Pietro\Notes\Notes\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-125.png">
+    <AppxPackagedFile Include="D:\Pietro 2DS\pie2\Notes\Notes\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-125.png">
       <PackagePath>dotnet_bot.scale-125.png</PackagePath>
-      <Modified>2025-08-26T00:15:56.245</Modified>
+      <Modified>2025-09-30T23:04:33.455</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Pietro\Notes\Notes\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-150.png">
+    <AppxPackagedFile Include="D:\Pietro 2DS\pie2\Notes\Notes\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-150.png">
       <PackagePath>dotnet_bot.scale-150.png</PackagePath>
-      <Modified>2025-08-26T00:15:56.245</Modified>
+      <Modified>2025-09-30T23:04:33.455</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Pietro\Notes\Notes\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-200.png">
+    <AppxPackagedFile Include="D:\Pietro 2DS\pie2\Notes\Notes\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-200.png">
       <PackagePath>dotnet_bot.scale-200.png</PackagePath>
-      <Modified>2025-08-26T00:15:56.245</Modified>
+      <Modified>2025-09-30T23:04:33.455</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Pietro\Notes\Notes\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-400.png">
+    <AppxPackagedFile Include="D:\Pietro 2DS\pie2\Notes\Notes\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-400.png">
       <PackagePath>dotnet_bot.scale-400.png</PackagePath>
-      <Modified>2025-08-26T00:15:56.245</Modified>
+      <Modified>2025-09-30T23:04:33.455</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Pietro\Notes\Notes\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\github_logo.scale-100.png">
+    <AppxPackagedFile Include="D:\Pietro 2DS\pie2\Notes\Notes\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\github_logo.scale-100.png">
       <PackagePath>github_logo.scale-100.png</PackagePath>
-      <Modified>2025-08-26T00:15:56.245</Modified>
+      <Modified>2025-09-30T23:04:33.455</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Pietro\Notes\Notes\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Notes.deps.json">
+    <AppxPackagedFile Include="D:\Pietro 2DS\pie2\Notes\Notes\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Notes.deps.json">
       <PackagePath>Notes.deps.json</PackagePath>
-      <Modified>2025-08-26T00:16:09.171</Modified>
+      <Modified>2025-09-30T23:11:01.702</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\NugetPackages\microsoft.windows.sdk.net.ref\10.0.19041.57\lib\net8.0\Microsoft.Windows.SDK.NET.dll">
       <PackagePath>Microsoft.Windows.SDK.NET.dll</PackagePath>
